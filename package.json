@@ -11,7 +11,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
-    "@amcharts/amcharts4": "^4.4.0",
+    "@amcharts/amcharts4": "^4.10.29",
     "axios": "^0.18.0",
     "leaflet": "^1.5.1",
     "lodash": "^4.17.11",
